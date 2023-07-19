@@ -1,4 +1,4 @@
-package github.com/RohitChelluru06/mypackage
+package mypackage
 
 import "fmt"
 
