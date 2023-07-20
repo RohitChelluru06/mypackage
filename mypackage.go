@@ -1,7 +1,7 @@
-package mypackage1
+package mypackage2
 
 import "fmt"
 
 func MyFunction(){
-fmt.Println("Hello, I am in package1")
+fmt.Println("Hello package 2")
 }
